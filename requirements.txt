@@ -1,0 +1,4 @@
+geocoder==1.38.1
+opencv_python==4.8.1.78
+PyAutoGUI==0.9.54
+python-telegram-bot==20.7
