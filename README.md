@@ -14,5 +14,7 @@ Track your device via telegram bot
    ```bash
    pip install -r requirements.txt
 2. Go to [Telegram BotFather](https://telegram.me/BotFather) and create a bot of any name you want
+3. Bot father will give you token paste it in [keys.py](/keys.py)
+4. 
 
 
