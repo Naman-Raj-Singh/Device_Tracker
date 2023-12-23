@@ -4,9 +4,7 @@ Track your device via telegram bot
 ## Table of Contents
 
 - [Installation](#installation)
-- [Run](#Run)
-- [Contributing](#contributing)
-- [License](#license)
+- [Run](#Run Program)
 
 ## Installation
 
