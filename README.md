@@ -1,8 +1,5 @@
 # Device_Tracker
 Track your device via telegram bot
-# Project Name
-
-Brief description of your project.
 
 ## Table of Contents
 
@@ -13,6 +10,9 @@ Brief description of your project.
 
 ## Installation
 
-1. Clone the repository.
+1. Install the required library from requirments.txt.
    ```bash
-   git clone https://github.com/yourusername/yourproject.git
+   pip install -r requirements.txt
+
+
+
