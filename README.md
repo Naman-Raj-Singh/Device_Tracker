@@ -4,7 +4,7 @@ Track your device via telegram bot
 ## Table of Contents
 
 - [Installation](#installation)
-- [Run](#Run Program)
+- [Run](#RunProgram)
 
 ## Installation
 
@@ -57,7 +57,7 @@ Track your device via telegram bot
     stdown - Shut down windows
     iplocation - Get the IP adress location
 
-## Run Program
+## RunProgram
    Open [win.py](win.py)
    
    
