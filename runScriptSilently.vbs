@@ -1,2 +1,2 @@
 Set objShell = CreateObject("WScript.Shell")
-objShell.Run "python win.py", 0, True
+objShell.Run "cmd /c run.bat", 0, false
