@@ -63,7 +63,7 @@ Track your device via telegram bot
    Open [win.py](win.py)
 
 ## Add_script_to_windows_startup
-   1. Press Win + R to open the Run dialog.
-   2. Type shell:startup and press Enter. This will open the "Startup" folder.
+   1. Press `Win + R` to open the Run dialog.
+   2. Type `shell:startup` and press Enter. This will open the "Startup" folder.
    3. Move the shortcut from your desktop to the "Startup" folder.
    
