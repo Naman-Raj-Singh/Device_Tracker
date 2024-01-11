@@ -65,5 +65,5 @@ Track your device via telegram bot
 ## Add_script_to_windows_startup
    1. Press `Win + R` to open the Run dialog.
    2. Type `shell:startup` and press Enter. This will open the "Startup" folder.
-   3. create shortcut of runScriptSilently.vbs in "Startup" folder
+   3. Create shortcut of [runScriptSilently.vbs](runScriptSilently.vbs) in "Startup" folder
    
