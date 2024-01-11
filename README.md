@@ -54,6 +54,7 @@ Track your device via telegram bot
     img - Get Image of Person
     rec - Record the person
     lock - Lock the windows
+    list_and_close_windows - Close any desired open window
     stdown - Shut down windows
     iplocation - Get the IP adress location
 
