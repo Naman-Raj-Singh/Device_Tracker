@@ -5,6 +5,9 @@ from keys import TOKEN, ID
 
 bot = Bot(token=TOKEN)
 
+def chatID(i):
+    return i.message.chat.id
+    
 async def send_image(image_path, caption):
     image_file = InputFile(open(image_path, 'rb'))
     await bot.send_photo(chat_id=ID, photo=image_file, caption=caption)
