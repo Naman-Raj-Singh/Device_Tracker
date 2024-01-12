@@ -9,9 +9,7 @@ Track your device via telegram bot
 
 ## Installation
 
-1. Install the required library from requirments.txt.
-   ```python
-   pip install -r requirements.txt
+1. Run [install.bat](install.bat)
 2. Go to [Telegram BotFather](https://telegram.me/BotFather) and create a bot of any name you want
 3. Bot father will give you token paste it in [keys.py](/keys.py)
 4. Go to [Telegram Bot Raw](https://t.me/RawDataBot) and start
