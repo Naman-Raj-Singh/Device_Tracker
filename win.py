@@ -109,4 +109,4 @@ if __name__ == '__main__':
     application.add_handler(conv_handler)   
     # Run bot
     print('BOT IS STARTED')
-    application.run_polling(5)
+    application.run_polling(5) #This delays bot by 5 seconds
