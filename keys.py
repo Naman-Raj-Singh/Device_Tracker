@@ -9,6 +9,7 @@ TOKEN = 'YOUR_BOT_TOKEN'
 ID = 'USER_CHAT_ID'
 
 # Check if the TOKEN is set to 'not_rolled'
+##### DO NOT EDIT THE BELOW CODE#########
 if TOKEN == 'YOUR_BOT_TOKEN':
     ctypes.windll.user32.MessageBoxW(0, "Bot token has not been provided. Please update the TOKEN in keys.py.", "Token Not provided", 1)
     exit()
